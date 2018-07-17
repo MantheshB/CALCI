@@ -11,6 +11,7 @@ public class ContactManager {
 		String a = new String("xyz");
 		String b = new String("xyz");
 
+		
 		if (a == b) {
 			System.out.println(true);
 		} else {
